@@ -1,0 +1,13 @@
+/CW_OUTPUT/20251121/객체 데이터셋/시사교양/A06444S_2015_HD_S_0001_O3.json, Null 값 발견: key=object_name_kr
+/CW_OUTPUT/20251121/객체 데이터셋/시사교양/A06446S_2015_HD_S_0005_O3.json, Null 값 발견: key=object_name_kr
+/CW_OUTPUT/20251003/객체 데이터셋/예능/A00061E_2025_HD_E_0001_O6.json, Null 값 발견: key=object_name_kr
+/CW_OUTPUT/20250919/객체 데이터셋/시사교양/A00023S_2012_HD_S_0008_O3.json, Null 값 발견: key=length
+/CW_OUTPUT/20250919/객체 데이터셋/시사교양/A00023S_2012_HD_S_0008_O2.json, Null 값 발견: key=length
+/CW_OUTPUT/20250919/객체 데이터셋/시사교양/A00023S_2012_HD_S_0008_O5.json, Null 값 발견: key=length
+/CW_OUTPUT/20250919/객체 데이터셋/시사교양/A00023S_2012_HD_S_0008_O1.json, Null 값 발견: key=length
+/CW_OUTPUT/20250919/객체 데이터셋/시사교양/A00023S_2012_HD_S_0008_O6.json, Null 값 발견: key=length
+/CW_OUTPUT/20250919/객체 데이터셋/시사교양/A00023S_2012_HD_S_0008_O4.json, Null 값 발견: key=length
+/CW_OUTPUT/20250926/객체 데이터셋/예능/A00045E_2024_HD_E_0018_O6.json, Null 값 발견: key=object_name_kr
+/CW_OUTPUT/20250926/객체 데이터셋/드라마/A00953D_2008_HD_D_0013_O2.json, Null 값 발견: key=object_name_kr
+/CW_OUTPUT/20251128/객체 데이터셋/드라마/A02012D_2009_HD_D_0005_O3.json, Null 값 발견: key=object_name_kr
+/CW_OUTPUT/20250915/객체 데이터셋/예능/A00026E_2024_HD_E_0010_O4.json, Null 값 발견: key=object_name_kr
